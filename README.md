@@ -2,9 +2,9 @@
 
 Low-Fidelity Wireframing - https://www.figma.com/design/yI71YhleppH1sZiSxbG5By/DatingApp_Wireframe?node-id=0-1&p=f&t=7ZVW8mq9xTBSfyMv-0
 
-High-Fidelity Wireframing & Prototyping - https://www.figma.com/design/gJXzYD3yBpGihYkDvfc43Q/mobile-dating?node-id=0-1&p=f&t=HF0z1FH2LjV68Ha6-0
+High-Fidelity Wireframing  - https://www.figma.com/design/gJXzYD3yBpGihYkDvfc43Q/mobile-dating?node-id=0-1&p=f&t=HF0z1FH2LjV68Ha6-0
 
-
+Prototype Link - https://www.figma.com/proto/gJXzYD3yBpGihYkDvfc43Q/mobile-dating?node-id=0-1&t=3SmwFBlQbmR98cyL-1
 <br>
 <br>
 <br>
